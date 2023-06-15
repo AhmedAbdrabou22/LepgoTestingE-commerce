@@ -22,7 +22,6 @@ const ProductDetails = ({dataDetails}) => {
   }
 
   // console.log(dataId.data);
-  console.log(dataId.data);
 
   let text = "";
   let description = "";
@@ -52,10 +51,6 @@ const ProductDetails = ({dataDetails}) => {
         }
       }
     }
-    console.log(imageOne);
-    console.log(imageTwo);
-    console.log(imageThee);
-    console.log(imageFour);
   }
   console.log(text);
 
