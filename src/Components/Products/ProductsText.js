@@ -13,7 +13,7 @@ const ProductsText = ({text , description}) => {
           <div className="cat-title d-inline">
             {/* آيفون XR بذاكرة سعة 128 جيجابايت ويدعم تقنية 4G LTE مع تطبيق فيس */}
             {text} {" "}
-            تايم (برودكت) أحمر <div className="cat-rate d-inline mx-3">4.5</div>
+            <div className="cat-rate d-inline mx-3">4.5</div>
           </div>
         </Col>
       </Row>

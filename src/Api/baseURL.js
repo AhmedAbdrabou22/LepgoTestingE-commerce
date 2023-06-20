@@ -5,7 +5,7 @@ import axios from 'axios'
 const baseURL = axios.create({
     baseURL: 'https://api.lepgo.online',
     headers: {
-      'Authorization': 'Bearer 1241|ho3F3x3oP9nyI8cVERmt2nTE7TDGUvMgGJ25DW2N',
+      'Authorization': 'Bearer 1276|b6S1GwIln9Vha9VoOd1Yi1zT2u57ozNXHGyb8M61',
     },
   });
   

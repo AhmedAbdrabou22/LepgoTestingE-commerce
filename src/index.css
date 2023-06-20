@@ -657,3 +657,12 @@ body {
   text-align: center;
 }
 /* end filter */
+.uploadCategoryDiv{
+  position:relative;
+}
+#upload-photo{
+  opacity:0;
+  position:absolute;
+  right:0;
+  top:20%;
+}

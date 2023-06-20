@@ -19,7 +19,7 @@ const ShopProducsPage = () => {
   } , [])
 
   const Products = useSelector(state=>state.allProducts.category);
-  console.log(Products.data);
+  // console.log(Products.data);
 
 
 
